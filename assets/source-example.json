@@ -1,0 +1,20 @@
+{
+  "id": "example-official-feed",
+  "name": "示例：替换为实查的官方来源",
+  "kind": "rss",
+  "enabled": false,
+  "topicIds": ["topic-1"],
+  "endpoint": "https://example.org/feed.xml",
+  "docsUrl": "https://example.org/docs",
+  "termsUrl": "https://example.org/terms",
+  "authEnv": null,
+  "accessClass": "unknown",
+  "commercialUse": "unknown",
+  "contentScope": "metadata",
+  "quota": "unknown",
+  "estimatedMonthlyCost": null,
+  "currency": "CNY",
+  "checkedAt": null,
+  "probe": { "status": "not_run", "evidence": null },
+  "notes": "只作字段示例；不得启用后冒充真实来源。证据路径相对 delivery 目录，文件需脱敏。"
+}

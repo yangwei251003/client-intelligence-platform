@@ -1,0 +1,6 @@
+interface:
+  display_name: "客户资讯平台定制"
+  short_description: "按领域自动选源、网站引导配置、后台每日采集摘要并更新资讯，保留原文出处"
+  default_prompt: "使用 $client-intelligence-platform，为这位老板开发网站内引导配置、自动匹配信息源、后台每日采集和总结最新热门资讯并跳转原文的本地资讯台。"
+policy:
+  allow_implicit_invocation: true

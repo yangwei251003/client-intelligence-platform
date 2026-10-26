@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "kind": "scheduled-run",
+  "scheduler": { "runId": null, "trigger": "scheduled", "scheduledFor": null },
+  "refreshRun": { "id": null, "trigger": "scheduled", "scheduledFor": null, "startedAt": null, "completedAt": null, "status": null },
+  "publication": { "runId": null, "editionId": null, "publishedAt": null },
+  "browser": { "closedAt": null, "reopenedAt": null, "observedEditionId": null }
+}

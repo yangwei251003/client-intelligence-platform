@@ -1,0 +1,7 @@
+node_modules/
+.runtime/
+__pycache__/
+.env*
+user_profile.json
+*.log
+!assets/.env.example

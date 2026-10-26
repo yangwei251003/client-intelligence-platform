@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "checks": {
+    "guidedSetup": { "status": "not_run", "evidence": null },
+    "sourceMatching": { "status": "not_run", "evidence": null },
+    "secretStorage": { "status": "not_run", "evidence": null },
+    "backgroundSchedule": { "status": "not_run", "evidence": null },
+    "browserClosed": { "status": "not_run", "evidence": null },
+    "restartCatchup": { "status": "not_run", "evidence": null },
+    "automaticPublishing": { "status": "not_run", "evidence": null },
+    "modelSummaries": { "status": "not_run", "evidence": null },
+    "dedupAndUpdates": { "status": "not_run", "evidence": null },
+    "freshnessAndHeat": { "status": "not_run", "evidence": null },
+    "originalLinks": { "status": "not_run", "evidence": null }
+  }
+}

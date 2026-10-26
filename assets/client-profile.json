@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "clientSlug": "new-client",
+  "objective": "待填写：客户每天需要据此做什么决定",
+  "topics": [
+    { "id": "topic-1", "name": "待填写", "purpose": "待填写", "include": [], "exclude": [], "entities": [], "regions": [], "languages": ["zh"], "maxItems": 10 }
+  ],
+  "delivery": { "os": "unknown", "timeZone": "Asia/Shanghai", "dailyAt": "08:30", "readingBudgetMinutes": 10 },
+  "budgets": { "currency": "CNY", "modelMonthlyLimit": 0, "sourceMonthlyLimit": 0 },
+  "intelligence": { "mode": "model", "rawFlowTest": "not_run", "testEvidence": null },
+  "model": { "provider": "unconfigured", "baseUrl": null, "modelId": null, "apiKeyEnv": "MODEL_API_KEY", "configurationTest": "not_run", "testEvidence": null },
+  "automation": { "requestedMode": "scheduled", "mode": "manual", "tested": "not_run", "testEvidence": null },
+  "privacy": { "commercialUse": true, "storeFullText": false }
+}
